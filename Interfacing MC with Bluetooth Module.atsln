@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Interfacing MC with Bluetooth Module", "Interfacing MC with Bluetooth Module\Interfacing MC with Bluetooth Module.cproj", "{BC1E54B5-D686-432D-A6D2-19B41E3F769A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1E54B5-D686-432D-A6D2-19B41E3F769A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BC1E54B5-D686-432D-A6D2-19B41E3F769A}.Debug|AVR.Build.0 = Debug|AVR
+		{BC1E54B5-D686-432D-A6D2-19B41E3F769A}.Release|AVR.ActiveCfg = Release|AVR
+		{BC1E54B5-D686-432D-A6D2-19B41E3F769A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
